@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+<script src=https://phosphorus.github.io/embed.js?id=140228731&auto-start=true&light-content=false></script>
 
 You can use the [editor on GitHub](https://github.com/nekalvikamberi2/One-Piece-Gigant-Battle-0.1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
